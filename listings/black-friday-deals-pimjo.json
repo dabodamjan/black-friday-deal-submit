@@ -1,0 +1,25 @@
+{
+  "name": "black-friday-deals (Pimjo)",
+  "url": "https://github.com/Pimjo/black-friday-deals",
+  "type": "github-pr",
+  "accepts": "'AI tools, SaaS, apps, or developer and design tools.' iPhone, iPad and Mac apps with no-code deals are listed under Productivity Tools.",
+  "cost": "free",
+  "how_to_submit": "Pull request adding one row at the end of the right category table in README.md, or the Google Form linked from the README.",
+  "entry_format": "| [**Name**](url) | One-line description. | 30% OFF yearly plans (Coupon: `CODE2026`) | Nov 20 – Dec 2, 2026 |  (the README's own template row; merged rows vary: some bold the discount, some write 'no code needed', some give $old → $new)",
+  "rules": [
+    "Submit only active or upcoming deals. Use official links, no third-party coupon sites. Include start and end dates when available.",
+    "Check for duplicates before submitting. Keep the existing order: first come, first served.",
+    "No CONTRIBUTING file, no pull request template, no per-maker limit. The maintainer merges in batches without comments.",
+    "README.md is saved with Windows line endings (every line on 20 Nov 2026). Keep them, or the diff touches every line."
+  ],
+  "status": "live",
+  "status_note": "158 pull requests from outside authors merged since 1 Oct 2026, the latest on 19 Nov 2026; 51 open; 5 closed without a merge.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "AI tools, SaaS, apps, developer and design tools; iPhone and Mac apps under Productivity Tools",
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://github.com/Pimjo/black-friday-deals/blob/HEAD/README.md"
+  ]
+}

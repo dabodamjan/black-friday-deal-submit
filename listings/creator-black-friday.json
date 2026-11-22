@@ -1,0 +1,22 @@
+{
+  "name": "Creator Black Friday",
+  "url": "https://creatorblackfriday.com",
+  "type": "form",
+  "accepts": "Deals that help creators. Groups: For Creators, Utilities, AI, For Developers, For Business. Mac utilities, an app for Mac and iPhone, and deals without a code are listed.",
+  "cost": "free",
+  "how_to_submit": "The 'Add a Deal' link on the page opens an Airtable form.",
+  "entry_format": "Fields: email, product name, subheading (for example '50% OFF LIFETIME DEAL'), a 10 to 20 word description, product type, product category, product URL, square https image URL.",
+  "rules": [
+    "Reviewed by hand for theme fit. First come, first listed. Some listings may not be accepted.",
+    "A 2 Nov 2026 check called this site dead; that was wrong. It runs a 2026 edition."
+  ],
+  "status": "live",
+  "status_note": "114 deals on 22 Nov 2026 (79 on 20 Nov), with an 'Add a Deal' form. The page calls itself 'A curated list' and does not show which deals came through the form, so no outside submission could be confirmed.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-22",
+  "sources": [
+    "https://creatorblackfriday.com"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "awesome-ios-black-friday (thephux)",
+  "url": "https://github.com/thephux/awesome-ios-black-friday",
+  "type": "github-pr",
+  "accepts": "Indie apps for Apple platforms. The README (not CONTRIBUTING.md) says: 'Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or more on Mac-only apps.' No SaaS, web apps, browser extensions, developer tools, courses, books, templates or boilerplates.",
+  "cost": "free",
+  "how_to_submit": "Pull request adding one row per app at the end of the right category table in the README.",
+  "entry_format": "| [App Name](App Store url) | iOS, macOS | One line on what it does. | 💸 ♾️ **50% OFF Lifetime** · $39.99 → $19.99 · code `BF26` | Nov 20 – Dec 1 |",
+  "rules": [
+    "A clear discount: a percentage, or a before → after price. The deal must be live during the sale window, not a waitlist or a 'coming soon'.",
+    "One entry per app; several apps get one row each. No shortened, tracking or affiliate links.",
+    "The pull request template has six boxes, none of them a licence box.",
+    "Created 17 Nov 2026 with four commits by the owner. On 20 Nov 2026: five open pull requests, one withdrawn, none merged. Check whether pull requests get merged before counting on it."
+  ],
+  "status": "live",
+  "status_note": "No merge yet as of 20 Nov 2026; a maybe, not a yes.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://github.com/thephux/awesome-ios-black-friday/blob/HEAD/README.md",
+    "https://github.com/thephux/awesome-ios-black-friday/blob/HEAD/CONTRIBUTING.md"
+  ]
+}

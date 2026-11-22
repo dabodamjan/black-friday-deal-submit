@@ -1,0 +1,26 @@
+{
+  "name": "IndieMarkdowns",
+  "url": "https://indiemarkdowns.com",
+  "type": "form",
+  "accepts": "Indie Mac apps and developer tools. 'A Mac app with an iPhone/iPad version is fine.' The submit page says they do not list iPhone-only apps, Windows-only software, non-developer websites or online services.",
+  "cost": "free-with-paid-options",
+  "cost_note": "Listing is free. Featured slot and homepage banner are paid per week, more in Black Friday week.",
+  "how_to_submit": "The form at https://indiemarkdowns.com/submit/ opens a pre-filled email; nothing is sent until you send it, and sending the form alone does not list the app. An existing product page carries a 'Send us your 2026 deal' link.",
+  "entry_format": "Fields: what you are sending, product name, contact email, official website, product type, who it is for, category, terminal or code needed, owner or company, privacy policy, support, App Store link, where the offer is published, icon (256 px or more), deal details, coupon, start and end dates, anything else.",
+  "rules": [
+    "Every submission is reviewed by hand against your public announcement, usually within 2 business days.",
+    "On 18 Nov 2026 the submit page asked for deals by Monday 23 Nov to be listed for Black Friday to Cyber Monday; on 20 Nov 2026 that line was gone."
+  ],
+  "status": "live",
+  "status_note": "425 confirmed 2026 offers on 22 Nov 2026 (332 live, 93 upcoming; 364 on 20 Nov). The page marks a deal live 'when the maker has confirmed it with us or published it.'",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "indie Mac apps and developer tools; a Mac app with an iPhone or iPad version, not iPhone-only",
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://indiemarkdowns.com/",
+    "https://indiemarkdowns.com/makers/",
+    "https://indiemarkdowns.com/submit/"
+  ]
+}

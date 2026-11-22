@@ -1,0 +1,19 @@
+{
+  "name": "9to5Mac",
+  "url": "https://9to5mac.com",
+  "type": "none",
+  "accepts": "Editorial roundups of indie app deals, picked by the writers. The 2024 and 2025 roundups pointed readers to Indie App Sales for the full list.",
+  "cost": "free",
+  "how_to_submit": "No submission route for app deals. The contact page lists a tips email and a tips form; nothing on it covers app deals.",
+  "rules": [],
+  "status": "no-submission-route",
+  "status_note": "No 2026 app-deals roundup as of 19 Nov 2026.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-19",
+  "sources": [
+    "https://9to5mac.com/contact/",
+    "https://9to5mac.com/guides/black-friday/"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PickMacApps",
+  "url": "https://pickmacapps.store/submit",
+  "type": "form",
+  "accepts": "Mac apps, as a directory listing. Not a deals list; its Black Friday sale is a discount on its own paid featuring.",
+  "cost": "free-with-paid-options",
+  "cost_note": "Free only with their badge on your site; featured is paid.",
+  "how_to_submit": "Form.",
+  "rules": [],
+  "status": "not-a-fit",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-18",
+  "sources": [
+    "https://pickmacapps.store/submit"
+  ]
+}

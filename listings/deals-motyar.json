@@ -1,0 +1,23 @@
+{
+  "name": "deals.motyar.workers.dev",
+  "url": "https://deals.motyar.workers.dev",
+  "type": "form",
+  "accepts": "App Store apps for iPhone, iPad and Mac.",
+  "cost": "free",
+  "cost_note": "No cost is stated anywhere on the site; the form has no payment step.",
+  "how_to_submit": "Form at https://deals.motyar.workers.dev/add with four fields: name, URL, offer, description. No sign-in.",
+  "rules": [
+    "No way to edit a listing afterwards and no contact shown, so an outdated entry stays.",
+    "Weak current-year signal: no year heading on the page, and one entry still read 'Black Friday 2025 offer' on 20 Nov 2026."
+  ],
+  "status": "live",
+  "status_note": "38 entries on 22 Nov 2026 (33 on 20 Nov). The page says 'Hand curated list of awesome deals' and does not show which entries came through the 'Submit Deal' form, so no outside submission could be confirmed.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-22",
+  "sources": [
+    "https://deals.motyar.workers.dev",
+    "https://deals.motyar.workers.dev/add"
+  ]
+}

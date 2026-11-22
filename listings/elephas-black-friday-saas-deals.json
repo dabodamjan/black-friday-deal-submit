@@ -1,0 +1,24 @@
+{
+  "name": "Elephas: Best SaaS Black Friday Deals",
+  "url": "https://elephas.app/blog/best-saas-blackfriday-deals",
+  "type": "form",
+  "accepts": "SaaS tools, with a few Mac apps among them (Elephas, Fluent, Wins, PastePal on 20 Nov 2026). A blog roundup updated each year, run by the maker of Elephas.",
+  "cost": "unknown",
+  "cost_note": "Neither the page nor the form states a cost.",
+  "how_to_submit": "'Want your deal listed? Submit it here' links to the Tally form https://tally.so/r/Eql1xL.",
+  "entry_format": "Fields: product name, tagline, description (2 to 3 sentences), deal details, original price, discounted price, deal code, website or deal link, your email, valid until, logo (PNG or SVG), and a required link to your own BFCM roundup submission form.",
+  "rules": [
+    "No deadline stated.",
+    "The last form field asks for a link to your own roundup submission form, which a single app maker does not have."
+  ],
+  "status": "live",
+  "status_note": "61 deals with 2026 dates on 20 Nov 2026, 13 of them 'coming soon'. The page does not show which deals came through the form.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://elephas.app/blog/best-saas-blackfriday-deals",
+    "https://tally.so/r/Eql1xL"
+  ]
+}

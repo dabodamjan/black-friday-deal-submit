@@ -1,0 +1,23 @@
+{
+  "name": "blackfridaydeals.directory",
+  "url": "https://blackfridaydeals.directory",
+  "type": "form",
+  "accepts": "Software deals tagged Mac, iPhone, iPad, Android, Windows, Linux, Apple TV and browser extensions. Mac and iPhone apps are listed.",
+  "cost": "paid-only",
+  "cost_note": "Basic $3, Featured $14, Premium $47, one-time. No free tier on 20 Nov 2026.",
+  "how_to_submit": "Paid form at https://blackfridaydeals.directory/submit: product URL, product name, deal details, coupon code (optional), email, company, plan. The page says paid listings go live in 2 to 5 minutes.",
+  "rules": [
+    "198 deals listed on 20 Nov 2026, each with its own opening date."
+  ],
+  "status": "paid-only",
+  "status_note": "A 2 Nov 2026 reading called the site dead. On 20 Nov 2026 it ran a 2026 edition, paid only.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://blackfridaydeals.directory",
+    "https://blackfridaydeals.directory/submit",
+    "https://blackfridaydeals.directory/pricing"
+  ]
+}

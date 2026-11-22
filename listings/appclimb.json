@@ -1,0 +1,25 @@
+{
+  "name": "AppClimb",
+  "url": "https://appclimb.co",
+  "type": "form",
+  "accepts": "Apps for Mac, iPhone, Windows and the web from indie makers. A listing with a discount also shows on https://appclimb.co/deals.",
+  "cost": "free-with-paid-options",
+  "cost_note": "Free listing ($0) after a hand review, with a nofollow link. Launch is $29 one-time, live on payment, with a newsletter send and a do-follow link (20 Nov 2026).",
+  "how_to_submit": "Form at https://appclimb.co/submit, no account needed. uneedlists.com redirects here.",
+  "entry_format": "Fields: website (required, drafts the rest), name (40 characters), tagline (70), category, pricing, starting price, description (60 or more), store links, runs on, logo, screenshots (1 to 5), a deal block (discount %, code, ends), email.",
+  "rules": [
+    "The form drafts name, tagline, description, logo and a screenshot from your website and overwrites what was typed before. Enter your text after the draft loads and read it back before sending.",
+    "They email when the listing is live."
+  ],
+  "status": "live",
+  "status_note": "The deals page showed 10 deals on 20 and 22 Nov 2026 ('Last checked November 5, 2026'). The submit page asks for an email to 'tell you when it's live' and gives no review time (22 Nov 2026).",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://appclimb.co/submit",
+    "https://appclimb.co/deals",
+    "https://appclimb.co/pricing"
+  ]
+}

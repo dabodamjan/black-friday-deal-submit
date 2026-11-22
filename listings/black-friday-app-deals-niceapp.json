@@ -1,0 +1,18 @@
+{
+  "name": "Black Friday App Deals (blackfriday.niceapp.it)",
+  "url": "https://blackfriday.niceapp.it/",
+  "type": "form",
+  "accepts": "App deals, in 2025.",
+  "cost": "unknown",
+  "how_to_submit": "In 2025 the form was sent on request through the author's X account. A 2026 round would show there first.",
+  "rules": [],
+  "status": "dead",
+  "status_note": "On 18 Nov 2026 the page still showed the 2025 edition with 'See you next year!'.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-18",
+  "sources": [
+    "https://blackfriday.niceapp.it/"
+  ]
+}

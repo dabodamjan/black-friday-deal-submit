@@ -1,0 +1,25 @@
+{
+  "name": "Gaurav Tiwari: Black Friday Mac App Deals",
+  "url": "https://gauravtiwari.org/deal/black-friday-mac-app-deals/",
+  "type": "form",
+  "accepts": "The form names SaaS, WordPress products and developer tools, with a 20% or more discount guideline. The site also runs a Black Friday Mac App Deals page with an indie section, where an app for Mac, iPhone and iPad was listed; there is no iOS page.",
+  "cost": "free-with-paid-options",
+  "cost_note": "Free standard listing. Spotlight $100, Featured $200, Featured Lifetime $500 (20 Nov 2026).",
+  "how_to_submit": "Form at https://gauravtiwari.org/contact/submit-a-deal/.",
+  "entry_format": "Fields: your name, email, product name, product URL, about the product (2 to 4 sentences), deal type, coupon (optional), the offer (usual price, deal price, currency, plan), offer dates (with year and time zone), banner (optional), affiliate program URL (optional), anything else, featured tier.",
+  "rules": [
+    "The owner reviews each listing within 3 business days and sends the listing link if it is selected.",
+    "'For Black Friday, submit 2 to 3 weeks before the event.'"
+  ],
+  "status": "live",
+  "status_note": "On 22 Nov 2026 the Mac app deals page said its indie section has 'the offers from this year's thread and from my inbox' (r/macapps and developers who 'send them to me directly'), with more than 40 indie apps listed.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "Mac apps (its Mac app deals page); the form names SaaS, WordPress and developer tools",
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://gauravtiwari.org/contact/submit-a-deal/",
+    "https://gauravtiwari.org/deal/black-friday-mac-app-deals/"
+  ]
+}

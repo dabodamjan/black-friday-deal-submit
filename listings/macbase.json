@@ -1,0 +1,26 @@
+{
+  "name": "MacBase: Black Friday Mac App Deals",
+  "url": "https://macbase.app/deals/black-friday",
+  "type": "account",
+  "accepts": "Mac apps, 'straight from their makers'.",
+  "cost": "free-with-paid-options",
+  "cost_note": "'List your Mac apps for free'; no cut of sales. Featured placement is paid per week or month.",
+  "how_to_submit": "Sign in (on 19 Nov 2026 new accounts went through X, GitHub or Google; the sign-in page showed no provider buttons to a fetcher on 20 Nov), submit the app at https://macbase.app/submit (paste the Mac App Store link and it drafts the listing), then after approval add the deal in the dashboard under deals/black-friday: an offer line, an optional code, an optional link, first and last day.",
+  "rules": [
+    "Listings are reviewed within a day.",
+    "Screenshots should show the app's own windows at 16:10.",
+    "The 2026 deal window runs from 19 Nov 2026 to 4 Jan 2027.",
+    "The member-deal block needs a code. A do-follow link needs their badge on your site; that is a request, not a condition of listing."
+  ],
+  "status": "live",
+  "status_note": "93 deals on 22 Nov 2026 (69 on 20 Nov). The page calls them deals 'straight from their makers' and asks developers to 'Add your app's deal'.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "Mac apps listed by their makers; needs a sign-in, so the text is handed over",
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://macbase.app/deals/black-friday",
+    "https://macbase.app/submit"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Indie Goodies: Indie Black Friday (onmyway133/blackfriday)",
+  "url": "https://github.com/onmyway133/blackfriday",
+  "type": "github-pr",
+  "accepts": "Deals from indie or self-funded makers on any platform, submitted by the maker or with their go-ahead. The schema allows mac, ios, ipad, watch, vision, tv, android, windows, linux, web and chrome.",
+  "cost": "free",
+  "how_to_submit": "Pull request adding one JSON file per deal under the year folder (for example 2026/<slug>.json), copied from an existing file. At most two deals per pull request. The issue form (title prefix 'Deal: ') is the alternative route. The site is https://indiegoodies.com/blackfriday.",
+  "entry_format": "JSON with name, url, description (160 characters max, no trailing period), category (productivity, utilities, writing, ai, developer-tools, design, media, marketing, business, lifestyle, education), deal (90 characters max), and optional platforms (from the list above), code (3 to 30 characters), pricing (lifetime, one-time, subscription), price {regular, sale, currency}, discount (1 to 100), startDate, endDate (YYYY-MM-DD), icon (square https link, 128 px or larger, not one that expires). Unknown keys are rejected.",
+  "rules": [
+    "At most two deals per maker each year, counted across all pull requests and accounts: 'Splitting deals over several pull requests doesn't raise the limit: extra deals are not merged.' Added to CONTRIBUTING.md on 18 Nov 2026.",
+    "At most two deals per pull request; the check fails on more.",
+    "A real Black Friday or Cyber Monday discount, roughly between mid November and early December. No price-on-page check.",
+    "https URLs only, no affiliate or deal-site redirects. Two-space indent, the example's key order, a trailing newline. Run `npm run validate` before opening the pull request.",
+    "The pull request template has six boxes; the last one is 'I agree that my contribution is licensed to the maintainers under the terms in LICENSE'. CONTRIBUTING.md says the data may not be reused elsewhere. That box is the submitter's to tick, not an agent's.",
+    "The page marks a deal as ended after endDate. Merge waits ran from a few hours to more than a day in November 2026."
+  ],
+  "status": "live",
+  "status_note": "206 pull requests from outside authors merged since 1 Oct 2026, the latest on 20 Nov 2026; 15 open; 3 closed, all withdrawn by their authors.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "indie or self-funded makers on any platform, submitted by the maker; two deals per maker per year",
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://github.com/onmyway133/blackfriday/blob/main/CONTRIBUTING.md",
+    "https://github.com/onmyway133/blackfriday/blob/main/.github/pull_request_template.md",
+    "https://github.com/onmyway133/blackfriday/blob/main/schema/deal.schema.json"
+  ]
+}

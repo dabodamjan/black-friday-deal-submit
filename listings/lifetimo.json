@@ -1,0 +1,18 @@
+{
+  "name": "Lifetimo",
+  "url": "https://lifetimo.com/black-friday",
+  "type": "none",
+  "accepts": "Unknown: the page did not load.",
+  "cost": "unknown",
+  "how_to_submit": "Unknown.",
+  "rules": [],
+  "status": "could-not-read",
+  "status_note": "HTTP 403 on every fetch of https://lifetimo.com/black-friday on 18 and 22 Nov 2026; its submission rules could not be read.",
+  "edition": "Black Friday 2026",
+  "verification": "unread",
+  "recommended": false,
+  "checked_on": "2026-11-22",
+  "sources": [
+    "https://lifetimo.com/black-friday"
+  ]
+}

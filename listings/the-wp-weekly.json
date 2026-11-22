@@ -1,0 +1,17 @@
+{
+  "name": "The WP Weekly Black Friday deals",
+  "url": "https://thewpweekly.com/black-friday-deals",
+  "type": "form",
+  "accepts": "WordPress products for a WordPress audience.",
+  "cost": "free",
+  "how_to_submit": "Form.",
+  "rules": [],
+  "status": "not-a-fit",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-18",
+  "sources": [
+    "https://thewpweekly.com/black-friday-deals"
+  ]
+}

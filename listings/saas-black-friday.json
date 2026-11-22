@@ -1,0 +1,17 @@
+{
+  "name": "SaaS Black Friday",
+  "url": "https://saasblackfriday.online/submit-a-deal/",
+  "type": "form",
+  "accepts": "SaaS tools. All 14 categories are SaaS, hosting or WordPress.",
+  "cost": "free",
+  "how_to_submit": "Form.",
+  "rules": [],
+  "status": "not-a-fit",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-18",
+  "sources": [
+    "https://saasblackfriday.online/submit-a-deal/"
+  ]
+}

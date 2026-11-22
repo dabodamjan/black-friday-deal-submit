@@ -1,0 +1,17 @@
+{
+  "name": "IndieHustles Black Friday",
+  "url": "https://indiehustles.com/black-friday/submit",
+  "type": "account",
+  "accepts": "Indie alternatives to popular SaaS. Mac apps are listed.",
+  "cost": "unknown",
+  "how_to_submit": "The submit page asks only for an email to send a sign-in link ('No password. We'll email you a link that signs you in.'). Signing in also subscribes you to their newsletter. The fields and the cost behind the sign-in were not read.",
+  "rules": [],
+  "status": "live",
+  "edition": "Black Friday 2026",
+  "verification": "partly",
+  "recommended": false,
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://indiehustles.com/black-friday/submit"
+  ]
+}

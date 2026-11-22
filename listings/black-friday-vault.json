@@ -1,0 +1,24 @@
+{
+  "name": "Black Friday Vault",
+  "url": "https://blackfridayvault.com/launch/",
+  "type": "form",
+  "accepts": "Software, SaaS and WordPress. No rule against apps, but no App Store app was named among the deals on 18 or 20 Nov 2026.",
+  "cost": "free",
+  "how_to_submit": "Form at https://blackfridayvault.com/launch/ (the /submit path returns 404). The sign-in and create-account panel at the top of that page is for upvoting, saving and commenting; the page does not say an account is needed to submit.",
+  "entry_format": "Fields in order: product or Black Friday page URL (with a fetch-details button), product name, what it does (70 characters max), product website, deal link, regular price, deal price, billing (per year, per month, lifetime, one-time), deal headline (optional if prices are given), coupon code (optional), starts, ends, description (40 to 800 characters), categories (up to 3), contact email (private), a confirmation checkbox.",
+  "rules": [
+    "Free to list. The site checks the price and the link, then publishes, usually within a day.",
+    "The prices must be accurate and the discount real, not a raised regular price.",
+    "Text copied from your website or another listing is sent back for a rewrite (as read on 18 Nov 2026)."
+  ],
+  "status": "live",
+  "status_note": "2026 edition with 164 live deals on 20 Nov 2026. The page does not show which listings came through the form.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://blackfridayvault.com/",
+    "https://blackfridayvault.com/launch/"
+  ]
+}

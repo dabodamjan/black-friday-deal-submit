@@ -1,0 +1,18 @@
+{
+  "name": "verified-black-friday (thoughtcook)",
+  "url": "https://github.com/thoughtcook/verified-black-friday",
+  "type": "github-pr",
+  "accepts": "Developer tools. No iOS section.",
+  "cost": "free",
+  "how_to_submit": "Pull request.",
+  "rules": [],
+  "status": "not-a-fit",
+  "status_note": "Two stars on 2 Nov 2026.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-02",
+  "sources": [
+    "https://github.com/thoughtcook/verified-black-friday"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "realsaasdeals.com",
+  "url": "https://realsaasdeals.com",
+  "type": "none",
+  "accepts": "Unknown.",
+  "cost": "unknown",
+  "how_to_submit": "Unknown.",
+  "rules": [],
+  "status": "could-not-read",
+  "status_note": "TLS error on the apex and www, HTTP 422 through a reader, on 2 Nov 2026. Dead or blocking fetchers; not confirmed either way.",
+  "edition": "Black Friday 2026",
+  "verification": "unread",
+  "recommended": false,
+  "checked_on": "2026-11-02",
+  "sources": [
+    "https://realsaasdeals.com"
+  ]
+}

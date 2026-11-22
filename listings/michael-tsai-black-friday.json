@@ -1,0 +1,25 @@
+{
+  "name": "Michael Tsai's Black Friday post",
+  "url": "https://mjtsai.com/blog/",
+  "type": "email",
+  "accepts": "Mac and iOS apps. The 2025 list included iPhone-only apps.",
+  "cost": "free",
+  "how_to_submit": "Every November the author posts a call on Mastodon (@mjtsai@mastodon.social). The 2026 call, posted 17 Nov 2026, asked makers to email mjt@mjtsai.com with the product name, a short description and the URL, with any coupon built into the URL, and the regular site URL as well when the link is an App Store coupon.",
+  "entry_format": "The published list shows a linked product name, sometimes with a code or an end date in brackets. Descriptions are not shown.",
+  "rules": [
+    "No stated cutoff. The 2026 call named 20 Nov as the posting day, and the 2026 list went up on 20 Nov 2026.",
+    "Earlier lists: 21 Nov 2023, 25 Nov 2024, 21 Nov 2025, with late entries added during the following week."
+  ],
+  "status": "live",
+  "status_note": "The 2026 list, posted 20 Nov 2026, had about 140 apps plus accessories, books and training, photo and video services and deal lists on 22 Nov 2026. It does not say how entries were gathered.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-22",
+  "sources": [
+    "https://mastodon.social/@mjtsai/117632366261454828",
+    "https://mjtsai.com/blog/",
+    "https://mjtsai.com/blog/2026/11/20/black-friday-2026/",
+    "https://mjtsai.com/blog/2025/11/21/black-friday-2025/"
+  ]
+}

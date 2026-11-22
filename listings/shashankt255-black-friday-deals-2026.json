@@ -1,0 +1,28 @@
+{
+  "name": "black-friday-deals-2026 (Shashankt255)",
+  "url": "https://github.com/Shashankt255/black-friday-deals-2026",
+  "type": "github-pr",
+  "accepts": "Deals 'for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts' in 12 categories, among them Developer Tools & SaaS, Design & Productivity, AI & ML Tools and Wellness Apps. No Mac or iOS section; apps sit in the category that fits.",
+  "cost": "free",
+  "how_to_submit": "Pull request adding a row to the right category table in README.md, title like 'Add: ProductName BF2026 deal'; an issue is the alternative. CONTRIBUTING.md says pull requests are reviewed within 24 hours during November.",
+  "entry_format": "| [Name](official deal url) | Short description | **XX% OFF** (code, dates) | ✅ |  (columns Product, Description, Deal, Status; ✅ confirmed, ⏳ expected)",
+  "rules": [
+    "Real discounts only, with the official deal page linked; no affiliate links; one deal per row; one-line descriptions; no expired deals.",
+    "No ordering rule; the tables are not alphabetical.",
+    "The README asks for a star 'to help it trend' and offers a badge. Both are requests, not conditions.",
+    "Pull requests that hit a merge conflict are closed and the deal is added by the owner's own commit ('Merged manually'); a closed pull request there is not a rejection until its comment says so.",
+    "The season's README is archived as README_2026.md at the end of the season."
+  ],
+  "status": "live",
+  "status_note": "Created 10 Nov 2026, 375 deals by 20 Nov. 23 pull requests from outside authors merged, the latest on 19 Nov 2026; 10 open; 19 closed without a merge, the recent ones with 'merged manually' comments.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "software and SaaS for developers, designers and tech enthusiasts; apps in Design & Productivity or Wellness Apps",
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://raw.githubusercontent.com/Shashankt255/black-friday-deals-2026/main/README.md",
+    "https://raw.githubusercontent.com/Shashankt255/black-friday-deals-2026/main/CONTRIBUTING.md",
+    "https://api.github.com/repos/Shashankt255/black-friday-deals-2026"
+  ]
+}

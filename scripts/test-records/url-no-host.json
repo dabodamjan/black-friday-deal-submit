@@ -1,0 +1,13 @@
+{
+  "name": "URL with no host",
+  "url": "https://",
+  "type": "form",
+  "accepts": "Software deals.",
+  "cost": "free",
+  "how_to_submit": "Form.",
+  "status": "live",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "MacStories",
+  "url": "https://www.macstories.net",
+  "type": "none",
+  "accepts": "Editorial roundup. The 2025 roundup took its indie deals from Indie App Sales.",
+  "cost": "free",
+  "how_to_submit": "No submission call and no readable tips address (the contact page returned 404 on 19 Nov 2026). Indie App Sales is the way in.",
+  "rules": [],
+  "status": "no-submission-route",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-19",
+  "sources": [
+    "https://www.macstories.net/news/black-friday-app-deals/"
+  ]
+}

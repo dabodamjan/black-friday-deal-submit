@@ -1,0 +1,14 @@
+{
+  "name": "Recommended without evidence",
+  "url": "https://example.org/recommended",
+  "type": "github-pr",
+  "accepts": "Software deals.",
+  "cost": "free",
+  "how_to_submit": "Pull request.",
+  "status": "live",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "software of any kind",
+  "checked_on": "2026-11-20"
+}

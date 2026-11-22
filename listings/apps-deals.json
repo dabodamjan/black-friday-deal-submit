@@ -1,0 +1,25 @@
+{
+  "name": "Apps.Deals Black Friday",
+  "url": "https://apps.deals/bfd",
+  "type": "form",
+  "accepts": "Mac apps only. 'It must install and run on macOS.' Native and Electron apps are fine; websites, web apps and browser extensions are not. Mac App Store apps with in-app purchases are listed.",
+  "cost": "free-with-paid-options",
+  "cost_note": "Free $0 one-time submission, 'reviewed in due course; no timeline is guaranteed'. Expedited review $10 (within 24 hours), Standard feature $49 per month, Premium $169 (20 Nov 2026).",
+  "how_to_submit": "Form at https://apps.deals/submit. No login and no payment step on the free route. A share link for the deal is given right after submitting; the deal appears on the list page after review.",
+  "entry_format": "Fields: app name (30 characters), description (250), app icon upload, category (App Store categories), App Store link, website link, offer type (Free, Discount, Black Friday Deal, Promo Codes), pricing model (One-time or Subscription), original price, offer price, start and end date, a 'Mac app or Safari extension' checkbox, email.",
+  "rules": [
+    "There is no field for a coupon code.",
+    "Prices for paid tiers rise closer to Black Friday, per the feature page."
+  ],
+  "status": "live",
+  "status_note": "2026 page live with about 45 deals and a load-more button on 20 Nov 2026.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://apps.deals/bfd",
+    "https://apps.deals/submit",
+    "https://apps.deals/feature"
+  ]
+}

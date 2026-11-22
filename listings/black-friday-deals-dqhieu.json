@@ -1,0 +1,28 @@
+{
+  "name": "black-friday-deals (dqhieu)",
+  "url": "https://github.com/dqhieu/black-friday-deals",
+  "type": "github-pr",
+  "accepts": "Software deals in a single table. Mac, iPhone and iPad apps are listed.",
+  "cost": "free",
+  "how_to_submit": "Pull request appending one line per product after the last row of the table in README.md. The rules are in AGENTS.md in the repo (CLAUDE.md points at it). Its instructions to an agent are the list's format and limits; the pull request still opens only after the user's approvals.",
+  "entry_format": "|🤑|[Name](url)| One plain sentence naming the platform. | **50% OFF** with code **BF2026** (Nov 2 – Dec 3)|  (💸 under 50% off, 🤑 50% or more; 'no code needed' when there is no code)",
+  "rules": [
+    "Exactly five pipe characters per row, one line, no raw pipe inside a cell. Edit README.md only.",
+    "Description is one plain sentence, ideally under about 120 characters, naming the platform. No all caps, no emoji spam, no marketing filler.",
+    "The deal cell starts with the discount in bold; the code in bold or 'no code needed'; known dates in parentheses at the end.",
+    "All of one developer's deals go in one pull request; if that developer already has an open pull request, new rows go on its branch. No per-maker cap.",
+    "Discount, code and dates come from the user, not from guessing. Commit message: Add <Product Name>. Sync with upstream main right before committing.",
+    "Maintainer comment, not a written rule: the regular price is the price buyers pay today; a future price cannot be the regular price. Half of the recent closings were pull requests whose author did not answer a comment."
+  ],
+  "status": "live",
+  "status_note": "173 pull requests from outside authors merged since 1 Oct 2026, the latest on 20 Nov 2026; 29 open; 13 closed without a merge.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "software deals in one table; Mac, iPhone and iPad apps listed; all of one developer's deals in one pull request",
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://github.com/dqhieu/black-friday-deals/blob/main/AGENTS.md",
+    "https://github.com/dqhieu/black-friday-deals/pull/220"
+  ]
+}

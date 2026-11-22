@@ -1,0 +1,28 @@
+{
+  "name": "awesome-black-friday-ai-deals (tubeagentkit)",
+  "url": "https://github.com/tubeagentkit/awesome-black-friday-ai-deals",
+  "type": "github-pr",
+  "accepts": "AI tools, developer tools and APIs, creator and design tools, productivity software. Run by the team behind GetYouTubeTranscript, whose own entry is in the list.",
+  "cost": "free",
+  "cost_note": "'No affiliate links, no paid placements.'",
+  "how_to_submit": "Issue form 'Submit a deal' (title prefix 'Deal: ', required: product name, URL, category, one-sentence description, deal, end date, vendor source link; optional code and an 'I work on or for this product' box), or a pull request adding one object to data/deals.json and running python3 scripts/build_readme.py, with the regenerated README committed. Do not edit the README tables by hand.",
+  "entry_format": "JSON object with name, url, category, description, deal, code (null when none), ends (YYYY-MM-DD or 'not stated'), source_url, verified_on, lifetime. The build script sorts rows alphabetically.",
+  "rules": [
+    "Links with affiliate, referral or tracking parameters are rejected by the CI check.",
+    "Descriptions: no 'best', 'revolutionary' or emoji.",
+    "Pull request template boxes: added one object to data/deals.json; ran the build script and committed the README; links have no tracking parameters. It also asks for the product, the source page and your affiliation.",
+    "The README asks for a star 'to find it again next November'. That is a request, not a condition."
+  ],
+  "status": "live",
+  "status_note": "Created 15 Nov 2026 with one commit and no commits since. On 20 Nov 2026: 0 pull requests merged, 6 open, 6 submission issues open and unanswered.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://raw.githubusercontent.com/tubeagentkit/awesome-black-friday-ai-deals/main/README.md",
+    "https://raw.githubusercontent.com/tubeagentkit/awesome-black-friday-ai-deals/main/CONTRIBUTING.md",
+    "https://raw.githubusercontent.com/tubeagentkit/awesome-black-friday-ai-deals/main/.github/pull_request_template.md",
+    "https://api.github.com/repos/tubeagentkit/awesome-black-friday-ai-deals"
+  ]
+}

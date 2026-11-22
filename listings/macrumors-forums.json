@@ -1,0 +1,17 @@
+{
+  "name": "MacRumors forums",
+  "url": "https://forums.macrumors.com",
+  "type": "forum",
+  "accepts": "Unknown for deals. A 2 Nov 2026 reading of the rules said developers may not initiate mention of their own product.",
+  "cost": "free",
+  "how_to_submit": "Not applicable if the rule above holds. The rules page returned 403 to a fetcher on 12 Nov 2026; read it in a browser.",
+  "rules": [],
+  "status": "could-not-read",
+  "edition": "Black Friday 2026",
+  "verification": "partly",
+  "recommended": false,
+  "checked_on": "2026-11-12",
+  "sources": [
+    "https://forums.macrumors.com"
+  ]
+}

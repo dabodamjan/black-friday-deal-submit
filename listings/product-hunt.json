@@ -1,0 +1,17 @@
+{
+  "name": "Product Hunt",
+  "url": "https://www.producthunt.com",
+  "type": "none",
+  "accepts": "No Black Friday deal page. The /deals path returned 404.",
+  "cost": "unknown",
+  "how_to_submit": "None for Black Friday deals.",
+  "rules": [],
+  "status": "no-submission-route",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-02",
+  "sources": [
+    "https://www.producthunt.com/deals"
+  ]
+}

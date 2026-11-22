@@ -1,0 +1,30 @@
+{
+  "name": "Awesome Black Friday / Cyber Monday (trungdq88)",
+  "url": "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday",
+  "type": "github-pr",
+  "accepts": "'Only software, apps, or SaaS. No courses, books, boilerplates, etc.' Many categories, including a section for mobile apps. Not accepted: books, courses, boilerplates, templates, starter kits, themes, plugins.",
+  "cost": "free",
+  "cost_note": "A labelled sponsored block exists.",
+  "how_to_submit": "Pull request adding one row at the end of the matching category table in README.md. The call for the year is posted as an issue (2026: issue 2352); the rules live in issue 367. No CONTRIBUTING file, no pull request template.",
+  "entry_format": "| emoji | [Name](url) | Description. | 40% OFF all lifetime licenses with code **BF2026** (Nov 2 - Dec 1) |  (bold discount, bold code or 'no code needed', dates in parentheses)",
+  "rules": [
+    "One entry per product. Do not create new categories (use MISC) and do not spread one product across categories.",
+    "Written rule (issue 367): 'If you have more than 2 deals/apps that are closely related to each other, please submit them as a single entry, not multiple ones.' The list's bot enforces it as a cap of two apps per maker, citing the same issue. Plan for at most two rows per maker.",
+    "The product page must show the specific discount, the dates and the amount or percentage; deals without a clear before and after price, or with hidden pricing, are not accepted.",
+    "Banned: 100% off or free-while-in-beta deals, price-increase-soon offers, pre-orders and waitlists, shortened links, links to other deals or bundles, like/comment/subscribe gates, bundles priced against the sum of separate products.",
+    "Bot closings in November 2026 also turned away AI tools sold as credits, API resellers, launch prices presented as discounts, and products that are not 'established'; none of these is in the written rules.",
+    "The pull request may contain only the relevant diff. First come, first merged. The maintainer picks a small number of deals for a newsletter."
+  ],
+  "status": "live",
+  "status_note": "357 pull requests from outside authors merged since 1 Oct 2026, the latest on 20 Nov 2026; 65 open.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "software, apps and SaaS; mobile apps have their own section; at most two rows per maker",
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/blob/HEAD/README.md",
+    "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/367",
+    "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/2352"
+  ]
+}

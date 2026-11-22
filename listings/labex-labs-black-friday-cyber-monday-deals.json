@@ -1,0 +1,25 @@
+{
+  "name": "black-friday-cyber-monday-deals (labex-labs)",
+  "url": "https://github.com/labex-labs/black-friday-cyber-monday-deals",
+  "type": "github-pr",
+  "accepts": "Developer tools, technical learning and software, in categories Security & Privacy, Developer Tools, Cloud & Hosting, AI Tools, Design & Media, Website Builders & Templates, Productivity & Utilities, Business & Marketing. Mac and iOS apps sit under Productivity & Utilities. Curated by LabEx, whose own sale is the first section.",
+  "cost": "free",
+  "how_to_submit": "Pull request adding or updating a row in the category table in README.md. No CONTRIBUTING file, no pull request template, no issue form.",
+  "entry_format": "| [Name](url) | 50% off | $99.00 · lifetime | `CODE` |  (columns Product, Discount, Sale price, Code; a long dash for missing information)",
+  "rules": [
+    "Keep product names alphabetical within the category and product rows text-only.",
+    "Translations go in i18n/README_<language>.md with a link in the language bar; the owner syncs reviewed deals across them.",
+    "No deadline for the list; 'follow the product link for dates and full terms'."
+  ],
+  "status": "live",
+  "status_note": "Created 10 Nov 2026. 12 pull requests from outside authors merged between 15 and 17 Nov 2026; 28 open and none merged in the three days to 20 Nov; 3 closed without a merge and without a stated reason.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "developer tools and software; Mac and iOS apps under Productivity & Utilities",
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://raw.githubusercontent.com/labex-labs/black-friday-cyber-monday-deals/main/README.md",
+    "https://api.github.com/repos/labex-labs/black-friday-cyber-monday-deals"
+  ]
+}

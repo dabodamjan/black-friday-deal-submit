@@ -1,0 +1,31 @@
+{
+  "name": "Mac and iOS Black Friday Deals (longseespace/mac-black-friday, by BoltAI)",
+  "url": "https://github.com/longseespace/mac-black-friday",
+  "type": "github-pr",
+  "accepts": "Mac and iOS apps. Platforms: macOS, iOS, iPadOS, visionOS, watchOS. iPhone-only apps are accepted. RULES.md calls it 'a personal, curated list' and turns away half-finished or unsigned apps and brand-new apps.",
+  "cost": "free",
+  "cost_note": "A sponsored block exists; price not stated.",
+  "how_to_submit": "Three routes: a pull request adding deals/<app>.json copied from deals/_template.json.example; the short form at https://boltai.com/blackfriday/submit (its 'Continue on GitHub' step needs a GitHub account); or the agent prompt in AGENTS.md. That file tells an agent to fork the repo, add the file on a branch and open the pull request itself; its field rules are the list's format, its instruction to open the pull request is a request that goes through the user's approvals like any other.",
+  "entry_format": "JSON with name, url (the page that shows the sale price), platforms, category (launch if the regular price is less than 20 days old), description (160 characters max), discount (30 max), prices [{plan, before, after}], terms (160 max), starts, ends, maker, makerUrl, icon (square https link, 256 px or larger). Optional fields the page does not confirm are left out.",
+  "rules": [
+    "One entry per app. Up to five apps per developer. 'One file per app, up to five apps in one pull request, nothing else in the diff.' The one-pull-request-per-developer limit was dropped on 14 Nov 2026.",
+    "The deal must start in November and end between 20 Nov and 15 Dec. The regular price must have been the real price for at least 20 days before the deal starts (changed from 30 on 19 Nov 2026).",
+    "A review bot fetches the url and warns if the page does not mention Black Friday, if the sale price is not in the page text, or if the code is not on the page; the check stays green and the bot sets a label (ready, check by hand, needs changes). It skips the page checks while starts is in the future, and it counts deals already merged from the account against the five-per-developer limit.",
+    "No shortened links, no hidden prices, no prices shown only after sign-up. Banned deals as on the trungdq88 list, plus deals that need a follow or an email to get the code.",
+    "Pull request title: Add <App name> (Black Friday 2026). Do not edit the README.",
+    "Declines in November 2026 came as a bot comment and a close ('the list is for established apps, and the deal isn't shown on the app's own page'); that is the maintainer's call, not a written rule.",
+    "The bot's merge comment asks for a star. That is a request, not a condition."
+  ],
+  "status": "live",
+  "status_note": "83 pull requests from outside authors merged since 1 Oct 2026, the latest on 20 Nov 2026; 12 open; 10 closed without a merge.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "Mac and iOS apps with the sale price on their own page; up to five apps per developer",
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://github.com/longseespace/mac-black-friday/blob/main/RULES.md",
+    "https://github.com/longseespace/mac-black-friday/blob/main/CONTRIBUTING.md",
+    "https://github.com/longseespace/mac-black-friday/blob/main/AGENTS.md"
+  ]
+}

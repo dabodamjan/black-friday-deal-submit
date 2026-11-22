@@ -1,0 +1,28 @@
+{
+  "name": "Black-Friday-Deals (mRs-)",
+  "url": "https://github.com/mRs-/Black-Friday-Deals",
+  "type": "github-pr",
+  "accepts": "Software deals in 22 categories. iOS and Mac apps are listed.",
+  "cost": "free",
+  "how_to_submit": "Pull request adding one YAML file per deal at deals/<year>/<category>/<app>.yml against the master branch, or the form at https://blackfriday.mariuslandwehr.com/submit/ (needs a GitHub account; it pre-fills the same file and opens the pull request for you).",
+  "entry_format": "YAML with name, url, description, discount, terms, starts, ends (and percent where used). The README tables and the website are built from the files after each merge.",
+  "rules": [
+    "Never edit the README; it is generated from the YAML files.",
+    "Only offers for the current season. One deal per product, in the single most relevant category.",
+    "State the discount and the code, or say that it is applied automatically. No sale-page proof or checkout verification is required.",
+    "First come, first served: deals are listed in the order they were merged.",
+    "Pull request template (since 11 Nov 2026), three boxes: one file per deal and no README edit; valid for the 2026 season; listed once in its most relevant category. No licence box.",
+    "No per-maker or per-pull-request limit."
+  ],
+  "status": "live",
+  "status_note": "335 pull requests from outside authors merged since 1 Oct 2026, the latest on 19 Nov 2026; 55 open; 31 closed without a merge, the recent ones withdrawn or without comment.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "software deals in 22 categories; iOS and Mac apps listed",
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://github.com/mRs-/Black-Friday-Deals/blob/master/CONTRIBUTING.md",
+    "https://github.com/mRs-/Black-Friday-Deals/blob/master/.github/pull_request_template.md"
+  ]
+}

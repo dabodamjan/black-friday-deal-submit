@@ -1,0 +1,29 @@
+{
+  "name": "Awesome Black Friday & Cyber Monday Deals (twf-nikhila)",
+  "url": "https://github.com/twf-nikhila/awesome-black-friday-cyber-monday-deals",
+  "type": "github-pr",
+  "accepts": "Software deals across categories, picked by what the product does ('a video editor goes in Video, whether it's an app, SaaS or AI'). iPhone, iPad and Mac apps are listed.",
+  "cost": "free",
+  "cost_note": "Sponsor slots are sold; FormNX is a sponsor.",
+  "how_to_submit": "Pull request adding one row at the end of the right category table in README.md, or, for people who are 'not technical', the form at https://fill.formnx.com/f/63pk80 (fields need JavaScript and were not read).",
+  "entry_format": "| [Name](url) | One-line description of what it does | 💸 ♾️ **60% OFF** lifetime · code `BF26` | Nov 24, 2026 - Dec 1, 2026 |  (💸 for 50% or more, ♾️ for lifetime or buy-once; dates in exactly that style)",
+  "rules": [
+    "Exactly four columns, one row at the end of the right category. Dates must use the format 'Nov 24, 2026 - Dec 1, 2026'.",
+    "Description is one line, no feature lists. Deal details start with the discount markers.",
+    "Check that the product is not already listed. Submit plain URLs; the maintainer adds UTM tags.",
+    "No licence box in the pull request template and no per-maker limit.",
+    "The maintainer may move a row to a different category when merging.",
+    "The merge comment asks for a star and a share. That is a request, not a condition."
+  ],
+  "status": "live",
+  "status_note": "307 pull requests from outside authors merged since 1 Oct 2026, the latest on 20 Nov 2026; 19 open; 3 closed without a merge.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "software of any kind, filed by what it does; iPhone, iPad and Mac apps listed",
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://github.com/twf-nikhila/awesome-black-friday-cyber-monday-deals/blob/HEAD/README.md",
+    "https://github.com/twf-nikhila/awesome-black-friday-cyber-monday-deals/blob/HEAD/.github/pull_request_template.md"
+  ]
+}

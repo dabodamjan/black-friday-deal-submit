@@ -1,0 +1,20 @@
+{
+  "name": "blackfriday (SnapTidyAPP)",
+  "url": "https://github.com/SnapTidyAPP/blackfriday",
+  "type": "github-pr",
+  "accepts": "A GitHub fork of onmyway133/blackfriday (Indie Goodies), not a list of its own.",
+  "cost": "unknown",
+  "how_to_submit": "None. Submit to the parent list instead (see indie-goodies-black-friday).",
+  "rules": [
+    "Fork of onmyway133/blackfriday with zero pull requests of its own, open or closed, zero stars and no push since 9 Nov 2026 (read 20 Nov 2026)."
+  ],
+  "status": "copy",
+  "status_note": "A 19 Nov 2026 reading guessed it might be a copy; the repository API confirms it is a fork.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://api.github.com/repos/SnapTidyAPP/blackfriday"
+  ]
+}

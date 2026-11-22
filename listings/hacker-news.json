@@ -1,0 +1,17 @@
+{
+  "name": "Hacker News",
+  "url": "https://news.ycombinator.com",
+  "type": "none",
+  "accepts": "No thread takes app deals. A search in November 2026 found only links to deal lists.",
+  "cost": "free",
+  "how_to_submit": "None.",
+  "rules": [],
+  "status": "no-submission-route",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-19",
+  "sources": [
+    "https://hn.algolia.com"
+  ]
+}

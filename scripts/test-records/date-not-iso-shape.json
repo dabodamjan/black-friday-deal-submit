@@ -1,0 +1,13 @@
+{
+  "name": "Date without dashes",
+  "url": "https://example.org/date2",
+  "type": "form",
+  "accepts": "Software deals.",
+  "cost": "free",
+  "how_to_submit": "Form.",
+  "status": "live",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "20261120"
+}

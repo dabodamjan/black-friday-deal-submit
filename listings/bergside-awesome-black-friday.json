@@ -1,0 +1,22 @@
+{
+  "name": "awesome-black-friday (bergside)",
+  "url": "https://github.com/bergside/awesome-black-friday",
+  "type": "github-pr",
+  "accepts": "'Deals on dev tools, AI, and more' for developers and designers, in sections Hosting, Security, AI, Email, Social, Learning, Analytics, Marketing, Development & design, Productivity. No Mac or iOS section. Some of its links are affiliate links, per the README.",
+  "cost": "free",
+  "how_to_submit": "Open an issue, or send a pull request 'with the offer, dates, and an official source'. No template.",
+  "entry_format": "A bullet per deal, not a table: a favicon image from assets/, the bold linked name, a one-line description, then a details block with the offer, the code and a link to the official offer page. Alphabetical within each section.",
+  "rules": [
+    "Keep descriptions short and disclose any affiliate links."
+  ],
+  "status": "live",
+  "status_note": "Created 6 Nov 2026, 2 stars. On 20 Nov 2026: 0 pull requests merged, 16 open, 0 closed; the last commit was the owner's on 10 Nov.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://raw.githubusercontent.com/bergside/awesome-black-friday/main/README.md",
+    "https://api.github.com/repos/bergside/awesome-black-friday"
+  ]
+}

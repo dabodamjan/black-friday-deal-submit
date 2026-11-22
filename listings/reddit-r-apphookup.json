@@ -1,0 +1,17 @@
+{
+  "name": "Reddit r/AppHookup",
+  "url": "https://www.reddit.com/r/AppHookup/",
+  "type": "forum",
+  "accepts": "App deals.",
+  "cost": "free",
+  "how_to_submit": "Unknown. Reddit blocks fetchers and the rules were not read; read the sidebar, the rules page and any pinned Black Friday thread in a browser.",
+  "rules": [],
+  "status": "could-not-read",
+  "edition": "Black Friday 2026",
+  "verification": "unread",
+  "recommended": false,
+  "checked_on": "2026-11-19",
+  "sources": [
+    "https://www.reddit.com/r/AppHookup/"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "awesome-black-friday-for-developers (tushargugnani)",
+  "url": "https://github.com/tushargugnani/awesome-black-friday-for-developers",
+  "type": "github-pr",
+  "accepts": "Software, design tools, UI kits, courses and books that developers or designers pay for. Categories: developer-tools, laravel-php, design, ui-kits, courses, books, starter-kits, mobile, hosting. Mac apps for visual work are listed. The same list feeds https://blackfridaydeals.dev.",
+  "cost": "free",
+  "how_to_submit": "Pull request adding exactly one entry to deals/<year>.yaml, then run `python3 scripts/validate.py` and `python3 scripts/build_readme.py` and commit both the YAML and the regenerated README. Pull request title: Add <Product>.",
+  "entry_format": "YAML list item with name, url (https), category, offer, description (one sentence, 180 characters max).",
+  "rules": [
+    "The product must have been publicly available for at least six months, or come from a company people already know. Pull requests for domains registered in August or September 2026 were closed in November 2026.",
+    "A pricing page or a clear one-time price, and a real Black Friday / Cyber Monday discount.",
+    "One product per pull request. Hand edits to the README and pull requests with more than one product are closed.",
+    "Closed for duplicates, broken links, a missing offer or a missing description.",
+    "The pull request template asks for a 'Why it belongs' section and has a box for the six-month rule; no licence box.",
+    "Maintainer comment, not a written rule (10 Nov 2026): 'The list is for tools developers use in their own work'; a consumer app was closed on that ground, and AI model resellers and wrappers on another."
+  ],
+  "status": "live",
+  "status_note": "38 pull requests from outside authors merged since 1 Oct 2026, the latest on 20 Nov 2026; 2 open; 6 closed without a merge.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "tools developers and designers pay for, public for six months or more; a consumer app is a weak fit",
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://github.com/tushargugnani/awesome-black-friday-for-developers/blob/main/CONTRIBUTING.md",
+    "https://github.com/tushargugnani/awesome-black-friday-for-developers/pull/21"
+  ]
+}

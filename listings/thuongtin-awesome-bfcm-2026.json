@@ -1,0 +1,23 @@
+{
+  "name": "awesome-bfcm-2026 (thuongtin)",
+  "url": "https://github.com/thuongtin/awesome-bfcm-2026",
+  "type": "github-pr",
+  "accepts": "Black Friday and Cyber Monday 2026 deals collected from public Reddit threads, GitHub lists, Facebook posts and X, in categories AI & Dev Tools, Software & SaaS, Hosting & Cloud, Electronics, Hardware, Courses, Games, Other. No Mac or iOS section.",
+  "cost": "free",
+  "how_to_submit": "Open an issue or a pull request with the deal name, discount, URL, category, expiry and a source link. The README is generated from a Notion database every six hours, so a README edit is overwritten; the owner closes such pull requests and adds the deal to the database by hand.",
+  "entry_format": "Columns Deal, Discount, Price, Expires, Source, Notes; generated, not edited by hand.",
+  "rules": [
+    "English only. No affiliate spam and no invented prices.",
+    "A pull request that edits the README is closed with 'the README is generated from that database'; the deal may still be added by the owner. An issue is the route that matches how the list is maintained."
+  ],
+  "status": "live",
+  "status_note": "1,497 deals on 20 Nov 2026. One pull request merged ever (3 Nov 2026); 5 open; 8 closed without a merge, 6 of them because the README is generated. Every recent commit is the owner's sync.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://raw.githubusercontent.com/thuongtin/awesome-bfcm-2026/main/README.md",
+    "https://api.github.com/repos/thuongtin/awesome-bfcm-2026"
+  ]
+}

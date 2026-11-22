@@ -1,0 +1,13 @@
+{
+  "name": ["A list", "with a list for a name"],
+  "url": "https://example.org/list",
+  "type": "github-pr",
+  "accepts": "Anything.",
+  "cost": "free",
+  "how_to_submit": "Pull request.",
+  "status": "live",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20"
+}

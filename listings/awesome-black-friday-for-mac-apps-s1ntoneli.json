@@ -1,0 +1,26 @@
+{
+  "name": "Awesome Black Friday / Cyber Monday for Mac Apps (s1ntoneli)",
+  "url": "https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps",
+  "type": "github-pr",
+  "accepts": "macOS apps, Mac-compatible tools and AI apps. Mac App Store apps that also run on iPhone are listed. iPhone-only apps do not fit.",
+  "cost": "free",
+  "how_to_submit": "Pull request adding a row at the end of the category table in README.md. The table is HTML (table, tr, td), not a Markdown pipe table. Several apps in one pull request have been merged.",
+  "entry_format": "<tr> with six cells: badge (🔥 50% or more, 💎 20 to 49%, ✨ under 20%), <a href=url>Name</a>, type with platforms, description, offer (<strong>30% OFF</strong> · <code>BF2026</code>, or 'No code needed'), 2026 dates (Nov 4 - Dec 15, 2026).",
+  "rules": [
+    "The pull request must include: the official product link, a short description and category, the platform, the exact saving and who qualifies, the code or 'No code needed', the 2026 start and end dates, and a disclosure if you are the maker or receive referral or affiliate compensation.",
+    "Current-year deals only. Maintainers may shorten descriptions, group many listings from one publisher, or decline deals that cannot be checked.",
+    "If the app is already listed, edit its row rather than adding a second one. No per-maker or per-pull-request limit.",
+    "Branch from the current main and rebase if you fall behind. The README gets several merges a day; conflicting pull requests have been closed with the maintainer adding the entry on main himself, and stale 2025 coupons were closed."
+  ],
+  "status": "live",
+  "status_note": "79 pull requests from outside authors merged since 1 Oct 2026, the latest on 19 Nov 2026; 46 open; 15 closed without a merge.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "Mac apps and Mac-compatible tools; a Mac app with an iPhone version is fine, iPhone-only is not",
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/blob/main/CONTRIBUTING.md",
+    "https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/blob/main/README.md"
+  ]
+}

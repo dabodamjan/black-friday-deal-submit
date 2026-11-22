@@ -1,0 +1,23 @@
+{
+  "name": "Indie App Sales",
+  "url": "https://www.indieappsales.com",
+  "type": "account",
+  "accepts": "Apple indie apps (iOS, iPadOS, macOS, watchOS, visionOS). A yearly sale event rather than a list; press roundups have picked indie deals from it.",
+  "cost": "unknown",
+  "cost_note": "Listing cost not stated; sponsor slots are paid.",
+  "how_to_submit": "Register as a developer and add your apps at https://indieappsales.com/devs before the event. Developer notes are kept at https://github.com/mattcorey/indie-dev-sales.",
+  "rules": [
+    "The 2026 event runs from Black Friday to Cyber Monday (27 to 30 Nov 2026, per a 2 Nov 2026 reading). Signup closes before the sale starts; the cutoff could not be read.",
+    "The notes ask that discounts are configured in App Store Connect or whatever store front you use."
+  ],
+  "status": "live",
+  "status_note": "On 12 Nov 2026 only the page title rendered without JavaScript; dates, cutoff and form were not re-read.",
+  "edition": "Black Friday 2026",
+  "verification": "partly",
+  "recommended": false,
+  "checked_on": "2026-11-12",
+  "sources": [
+    "https://www.indieappsales.com",
+    "https://github.com/mattcorey/indie-dev-sales"
+  ]
+}

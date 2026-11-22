@@ -1,0 +1,21 @@
+{
+  "name": "blackfriday.tools",
+  "url": "https://blackfriday.tools",
+  "type": "account",
+  "accepts": "Offers on SaaS, AI and indie tools. Mac apps are listed. Categories include Lifetime deals and Productivity.",
+  "cost": "free",
+  "cost_note": "'Free listing · BFCM 2026' on the submit page.",
+  "how_to_submit": "Sign in by email at https://blackfriday.tools/submit (no password), paste your URL, and the form drafts the listing; you add the discount code and the dates. No fields show before sign-in.",
+  "rules": [
+    "The page says you add the discount code and the dates it runs, and that is the whole job. Whether a deal without a code passes is not stated.",
+    "Deals need an explicit end date; 'while supplies last' is not accepted."
+  ],
+  "status": "live",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://blackfriday.tools/submit"
+  ]
+}

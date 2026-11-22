@@ -1,0 +1,20 @@
+{
+  "name": "Reddit r/iosapps",
+  "url": "https://www.reddit.com/r/iosapps/",
+  "type": "forum",
+  "accepts": "iOS apps, with a developer promotion path.",
+  "cost": "free",
+  "how_to_submit": "A promotion post from a Reddit account that meets the karma bar, or the monthly megathread. Reddit blocks fetchers; read the sidebar and rules in a browser.",
+  "rules": [
+    "Rules as read on 10 Aug 2026: one promotion post per developer per 30 days; 10 or more karma in the subreddit; required flair; the post names what the app solves, which named alternatives it beats and the exact price; App Store links only; developer affiliation disclosed.",
+    "Whether a Black Friday thread or an AI-text rule exists for 2026 was not read."
+  ],
+  "status": "live",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-08-10",
+  "sources": [
+    "https://www.reddit.com/r/iosapps/"
+  ]
+}

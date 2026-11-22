@@ -1,0 +1,18 @@
+{
+  "name": "SaaSHub",
+  "url": "https://www.saashub.com",
+  "type": "none",
+  "accepts": "Not established. One path was opened, https://www.saashub.com/deals, on 2026-11-02; it returned 404. The site's other pages were not read.",
+  "cost": "unknown",
+  "how_to_submit": "No deals route was found on the one path opened. Whether the site takes deals elsewhere was not checked.",
+  "rules": [],
+  "status": "no-submission-route",
+  "status_note": "Based on one 404 at /deals on 2026-11-02, nothing more. Open the main page before counting this as checked.",
+  "edition": "Black Friday 2026",
+  "verification": "partly",
+  "recommended": false,
+  "checked_on": "2026-11-02",
+  "sources": [
+    "https://www.saashub.com/deals"
+  ]
+}

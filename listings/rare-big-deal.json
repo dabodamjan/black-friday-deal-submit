@@ -1,0 +1,28 @@
+{
+  "name": "rare-big-deal (danmindru)",
+  "url": "https://github.com/danmindru/rare-big-deal",
+  "type": "github-pr",
+  "accepts": "Software deals across categories, including iOS Apps and MacOS Apps sections with subcategories. The list also renders at https://rarebigdeal.com with a product page and a link per deal.",
+  "cost": "free",
+  "how_to_submit": "Pull request adding one row at the bottom of the category table in README.md. Several products in one pull request are accepted. The curator reviews in batches and lands the rows through his own 'landing' pull request, then closes the contributor's pull request with 'merged via #<n>'; a closed pull request there is not a rejection until its comment says so.",
+  "entry_format": "| emoji | [Name](url) | Description. | **50% OFF** plan ($old → $new USD), no code needed | YYYY-MM-DD |",
+  "rules": [
+    "CURATOR.md: 'It has a genuine discount that is live now. The regular price and the offer have to be visible on the product's own site or store.' A deal that is not live yet waits until it is.",
+    "'The date it ends is in the future, or the offer is clearly still running. Expired deals and offers that cannot be checked are not added.' A free trial at the normal price, or a standard price with no end date, is not a deal.",
+    "Add your row at the bottom of the category table. Do not reorder or rewrite other rows and do not reformat the README. The same offer can go in more than one category when it fits each one. English only.",
+    "The curator reviews about every 12 hours.",
+    "The merge comment asks for a star. That is a request, not a condition."
+  ],
+  "status": "live",
+  "status_note": "50 pull requests from outside authors merged since 1 Oct 2026 plus batches landed through the curator's own pull requests, the latest on 20 Nov 2026; 23 open.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "software deals with the discount live on the product's own site; iOS Apps and MacOS Apps sections",
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://github.com/danmindru/rare-big-deal/blob/HEAD/README.md",
+    "https://github.com/danmindru/rare-big-deal/blob/main/CURATOR.md",
+    "https://github.com/danmindru/rare-big-deal/pull/1078"
+  ]
+}

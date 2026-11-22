@@ -1,0 +1,23 @@
+{
+  "name": "blackfridaydeals.dev",
+  "url": "https://blackfridaydeals.dev",
+  "type": "account",
+  "accepts": "Mostly developer and design tools. Has a Mac Apps category (225 deals on 20 Nov 2026) and no iOS category. The GitHub list behind the site is a separate route (see awesome-black-friday-for-developers).",
+  "cost": "free-with-paid-options",
+  "cost_note": "Free $0, reviewed within 24 hours. Priority $9.99, Featured $49.99, Homepage Sponsor $249.99 (20 Nov 2026).",
+  "how_to_submit": "Form at https://blackfridaydeals.dev/submit-resource in four steps (your URL, deal details, upgrade, share). Step 1, the deal URL, shows before sign-in; the rest sits behind a Google, GitHub or email sign-in. The page says emailed submissions are possible but take longer to review, and prints no address for them; the only address on it (tushar@5balloons.info) is for other questions.",
+  "rules": [
+    "The site says it may skip listings that clutter a category.",
+    "2098 deals on 20 Nov 2026."
+  ],
+  "status": "live",
+  "status_note": "The submit page says free listings are 'Reviewed within 24 hours', that the form is 'the fastest way to get listed' and that 'Emailed submissions take longer to review' (22 Nov 2026).",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://blackfridaydeals.dev",
+    "https://blackfridaydeals.dev/submit-resource"
+  ]
+}

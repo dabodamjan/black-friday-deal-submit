@@ -1,0 +1,24 @@
+{
+  "name": "Superframeworks: Best Black Friday Software Deals",
+  "url": "https://superframeworks.com/deals",
+  "type": "form",
+  "accepts": "Software deals. Categories: Development, Design, Marketing, Analytics, Productivity, AI, Other. App Store apps and Mac apps are listed.",
+  "cost": "unknown",
+  "cost_note": "On 22 Nov 2026 neither the deals page nor the form stated a cost, a free listing, a paid placement or a review step. The deals page's only line about submitting reads 'Running a Black Friday promotion? Share it with thousands of indie hackers and founders.'",
+  "how_to_submit": "Tally form linked from the deals page (https://tally.so/r/OD1V5A in 2026), page 1 of 2 with 13 fields.",
+  "entry_format": "Fields: product name, tagline, description, deal details, original price and discounted price (digits only), deal code, category, website, logo URL, founder's name, email, valid until (date picker).",
+  "rules": [
+    "No review process and no timing for a submission to appear is published.",
+    "173 live deals on 20 Nov 2026, with 2026 dates per deal."
+  ],
+  "status": "live",
+  "status_note": "173 live deals on 20 and 22 Nov 2026. On 22 Nov 2026 the deals page printed no cost and no review time for a submission.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-22",
+  "sources": [
+    "https://superframeworks.com/deals",
+    "https://tally.so/r/OD1V5A"
+  ]
+}

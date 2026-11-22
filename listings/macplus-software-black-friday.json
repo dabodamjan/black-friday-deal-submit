@@ -1,0 +1,22 @@
+{
+  "name": "black-friday (MacPlus-Software)",
+  "url": "https://github.com/MacPlus-Software/black-friday",
+  "type": "github-pr",
+  "accepts": "A vendor's own sale page (30% off its Mac apps, 1 to 30 Nov 2026) with a 'Friends' table of 'Mac apps from makers we like'. Mac only.",
+  "cost": "free",
+  "how_to_submit": "No contributing rules anywhere in the repository. One outside pull request adding a Friends row was merged on 15 Nov 2026.",
+  "entry_format": "Friends columns: App, What it does, Deal (bold discount, code in bold, struck-through old price, bold new price, end date). Not alphabetical.",
+  "rules": [
+    "The README asks for a star 'to find it again next year'. That is a request, not a condition."
+  ],
+  "status": "live",
+  "status_note": "Created 12 Nov 2026, 0 stars. 12 merged pull requests, 11 of them the vendor's own branches; 1 outside deal merged (15 Nov 2026). No stated route, so a row is a guess at what the owner takes.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20",
+  "sources": [
+    "https://raw.githubusercontent.com/MacPlus-Software/black-friday/main/README.md",
+    "https://api.github.com/repos/MacPlus-Software/black-friday"
+  ]
+}

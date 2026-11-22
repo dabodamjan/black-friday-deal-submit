@@ -1,0 +1,18 @@
+{
+  "name": "SaaS Friday Deals",
+  "url": "https://saasfridaydeals.com",
+  "type": "form",
+  "accepts": "SaaS deals, in the past.",
+  "cost": "unknown",
+  "how_to_submit": "None found for a current edition.",
+  "rules": [],
+  "status": "dead",
+  "status_note": "The newest content is the 2023 edition; no 2025 or 2026 strings on 18 Nov 2026.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-18",
+  "sources": [
+    "https://saasfridaydeals.com"
+  ]
+}

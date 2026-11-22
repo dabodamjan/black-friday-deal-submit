@@ -1,0 +1,23 @@
+{
+  "name": "List name (owner for GitHub lists)",
+  "url": "https://",
+  "type": "github-pr | form | email | forum | account | none",
+  "accepts": "Who it is for: platforms, product types, minimum discount, product age.",
+  "cost": "free | free-with-paid-options | paid-only | unknown",
+  "cost_note": "Optional. What the paid options are, in words.",
+  "how_to_submit": "The route in one or two sentences, with the submit URL.",
+  "entry_format": "Optional. The row, file or field list, close to verbatim.",
+  "rules": [
+    "Optional. One rule per string: what gets an entry closed, limits, position rules, bot checks."
+  ],
+  "status": "live | live-no-current-edition | dead | copy | paid-only | not-a-fit | no-submission-route | could-not-read",
+  "status_note": "Optional. One line of evidence for the status.",
+  "edition": "Black Friday 2026",
+  "verification": "verified | partly | unread",
+  "recommended": false,
+  "recommended_for": "Only when recommended is true: what kind of product, in a few words from the list's own rules. The evidence (an entry got in on <date>) goes in status_note.",
+  "checked_on": "YYYY-MM-DD",
+  "sources": [
+    "https://"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "A valid record | with a pipe\nand a line break in its name",
+  "url": "https://example.org/ok",
+  "type": "github-pr",
+  "accepts": "Software deals.",
+  "cost": "free",
+  "how_to_submit": "Pull request.",
+  "status": "live",
+  "status_note": "An outside pull request merged on 2026-11-19.",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": true,
+  "recommended_for": "software of any kind",
+  "checked_on": "2026-11-20",
+  "sources": ["https://example.org/ok/CONTRIBUTING.md"]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Micro SaaS Examples: Black Friday SaaS deals",
+  "url": "https://www.microsaasexamples.com/black-friday-saas-deals/submit",
+  "type": "form",
+  "accepts": "SaaS deals. Has a 'Mac App' category; an app for Mac, iPhone and iPad was listed.",
+  "cost": "paid-only",
+  "cost_note": "Three paid tiers.",
+  "how_to_submit": "Paid form: one-liner (90 characters), deal line (28), lifetime checkbox, optional code.",
+  "rules": [],
+  "status": "paid-only",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-18",
+  "sources": [
+    "https://www.microsaasexamples.com/black-friday-saas-deals/submit"
+  ]
+}

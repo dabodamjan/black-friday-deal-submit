@@ -1,0 +1,23 @@
+{
+  "name": "TidBITS Talk: Black Friday deals thread",
+  "url": "https://talk.tidbits.com",
+  "type": "forum",
+  "accepts": "Tech and accessories TidBITS might cover. A yearly 'TidBITS-appropriate Black Friday deals' thread is opened by the editor (2026: https://talk.tidbits.com/t/tidbits-appropriate-black-friday-2026-deals/34592).",
+  "cost": "free",
+  "how_to_submit": "Post in the thread from a TidBITS Talk (Discourse) account.",
+  "rules": [
+    "The FAQ only bars spam. Nothing covers self-promotion or AI-written posts.",
+    "Developers have posted their own apps there with a disclosure line first ('I'm the developer, so this is self-interested.'), one line on the app and the plain price, without objection.",
+    "Discourse usually limits links in a brand-new account's first posts; TidBITS does not publish its limits.",
+    "The 2026 thread had 9 posts and 468 views on 19 Nov 2026."
+  ],
+  "status": "live",
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-19",
+  "sources": [
+    "https://talk.tidbits.com/t/tidbits-appropriate-black-friday-2026-deals/34592",
+    "https://talk.tidbits.com/faq"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "null-record.json": "record must be a JSON object, got null",
+  "array-record.json": "record must be a JSON object, got list",
+  "invalid-json.json": "invalid JSON",
+  "array-where-string.json": "'name' must be a string",
+  "recommended-no-evidence.json": "needs evidence in 'status_note'",
+  "url-no-host.json": "url must be https:// with a host",
+  "bad-calendar-date.json": "real calendar date",
+  "date-not-iso-shape.json": "real calendar date",
+  "nonstring-optional.json": "'status_note' must be a string",
+  "duplicate-name-first.json": "'url' must be a string",
+  "duplicate-name-second.json": "duplicate name",
+  "Bad_Name.json": "lowercase slug",
+  "ok-pipe-in-name.json": ""
+}

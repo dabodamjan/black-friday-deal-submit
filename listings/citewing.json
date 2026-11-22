@@ -1,0 +1,18 @@
+{
+  "name": "Citewing Black Friday deals",
+  "url": "https://citewing.com/black-friday-deals",
+  "type": "form",
+  "accepts": "iOS apps, Mac apps, SaaS, AI and web apps. App Store deals without a code are listed.",
+  "cost": "paid-only",
+  "cost_note": "Ranks are sold ('Claim this rank for $X').",
+  "how_to_submit": "A 'Submit a deal' button whose target could not be read; /submit returned 404.",
+  "rules": [],
+  "status": "paid-only",
+  "edition": "Black Friday 2026",
+  "verification": "partly",
+  "recommended": false,
+  "checked_on": "2026-11-18",
+  "sources": [
+    "https://citewing.com/black-friday-deals"
+  ]
+}

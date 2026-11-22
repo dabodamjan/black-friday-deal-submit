@@ -1,0 +1,15 @@
+{
+  "name": "Number where a note belongs",
+  "url": "https://example.org/note",
+  "type": "form",
+  "accepts": "Software deals.",
+  "cost": "free",
+  "how_to_submit": "Form.",
+  "status": "live",
+  "status_note": 42,
+  "cost_note": ["free"],
+  "edition": "Black Friday 2026",
+  "verification": "verified",
+  "recommended": false,
+  "checked_on": "2026-11-20"
+}
